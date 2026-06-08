@@ -1,0 +1,6 @@
+{
+  "name": "TalentHub",
+  "description": "A modern, professional recruitment platform connecting employers, recruiters, and job seekers with job searches, dynamic dashboards, candidate profiles, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
